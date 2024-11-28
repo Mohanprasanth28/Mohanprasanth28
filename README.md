@@ -16,3 +16,48 @@
 - 🔹 E-commerce Platform
   Description: Scalable e-commerce application with a dynamic user experience.
   Stack: Vite, TypeScript, SWC, Tailwind CSS.
+```
+
+## 🛠 Tech Stack
+
+### 💻 **Languages**
+- 🐍 **Python**: My go-to language for AI, automation, and backend systems.
+- 🛡️ **TypeScript**: Strongly typed, robust, and scalable for modern web apps.
+- ⚡ **JavaScript**: Dynamic and versatile for full-stack development.
+
+### 🌐 **Frameworks & Libraries**
+- ⚛️ **React**: Building fast, interactive, and responsive UIs.
+- 🚀 **FastAPI**: Lightning-fast APIs for next-gen backend services.
+- 🧪 **Flask**: Lightweight and powerful for microservices and APIs.
+- 🌐 **Node.js**: Handling real-time, event-driven server-side applications.
+- 📦 **Express**: Simplifying server logic and RESTful API development.
+
+### 🔧 **Tools & Platforms**
+- 🔄 **Replit**: Cloud-based collaborative development environment.
+- 🌍 **GitHub**: Version control, open-source contributions, and project management.
+- 🖥️ **VS Code**: The ultimate code editor for productivity and customization.
+
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohanprasanth28&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanprasanth28&theme=gruvbox" alt="GitHub Streak"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanprasanth28&layout=compact&theme=gruvbox" alt="Top Languages"> </p>
+
+
+## 🔐 LeetCode Stats
+
+Check out my LeetCode profile: [Mohan's LeetCode](https://leetcode.com/mohan_-prasanth/)
+
+## 🔐 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohan__prasanth?theme=dark)
+
+
+🌱 Learning & Future Goals
+- Enhance the Automatic Code Generation project with multi-language support.
+- Build AI-driven real-time code collaboration tools.
+- Expand cloud-based development environments with hybrid backend architecture.
+- Develop mobile applications for developers using Kotlin.
+
+📫 Connect with Me
+- LinkedIn: [Mohan Prasanth](https://www.linkedin.com/in/mohanprasanth)
+- Email: mohan28mass@gmail.com
+
+
