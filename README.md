@@ -57,7 +57,7 @@ Check out my LeetCode profile: [Mohan's LeetCode](https://leetcode.com/mohan_-pr
 - Develop mobile applications for developers using Kotlin.
 
 📫 Connect with Me
-- LinkedIn: [Mohan Prasanth](https://www.linkedin.com/in/mohanprasanth)
+- LinkedIn: [Mohan Prasanth](https://www.linkedin.com/in/mohan-prasanth-909b79255)
 - Email: mohan28mass@gmail.com
 
 
