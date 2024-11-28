@@ -43,7 +43,7 @@
 
 ## 🔐 LeetCode Stats
 
-Check out my LeetCode profile: [Mohan's LeetCode](https://leetcode.com/mohan_-prasanth/)
+Check out my LeetCode profile: [Mohan's LeetCode](https://leetcode.com/mohan__prasanth/)
 
 ## 🔐 LeetCode Stats
 
