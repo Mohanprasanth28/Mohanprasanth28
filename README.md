@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Mohan Prasanth</h1>
 <h3 align="center">Innovative Developer | Tech Enthusiast | AI Innovator</h3>
-[![Profile Views](https://komarev.com/ghpvc/?username=rameshkrishnan-s&style=for-the-badge&color=3CE0F7)](https://github.com/Mohanprasanth28)
-[![Profile Views](https://komarev.com/ghpvc/?username=rameshkrishnan-s&style=for-the-badge&color=3CE0F7)](https://github.com/rameshkrishnan-s)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7B801&center=true&vCenter=true&width=800&height=45&lines=Software+Engineer+%7C+AI+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+and+Scalable+Software+Solutions;">
 </p>
-
+[![Profile Views](https://komarev.com/ghpvc/?username=mohanprasanth-s&style=for-the-badge&color=3CE0F7)](https://github.com/Mohanprasanth28)
+[![Profile Views](https://komarev.com/ghpvc/?username=rameshkrishnan-s&style=for-the-badge&color=3CE0F7)](https://github.com/rameshkrishnan-s)
 ---
 
 ## 🚀 **Current Projects**
