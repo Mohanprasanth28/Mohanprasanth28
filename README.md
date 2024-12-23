@@ -7,7 +7,6 @@
 </p>
 <div align="center">
 [![Profile Views](https://komarev.com/ghpvc/?username=mohanprasanth-s&style=for-the-badge&color=3CE0F7)](https://github.com/Mohanprasanth28)
-[![Profile Views](https://komarev.com/ghpvc/?username=rameshkrishnan-s&style=for-the-badge&color=3CE0F7)](https://github.com/rameshkrishnan-s)
 </div>
 ---
 
