@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7B801&center=true&vCenter=true&width=800&height=45&lines=Software+Engineer+%7C+AI+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+and+Scalable+Software+Solutions;">
 </p>
 <div align="center">
-[![Profile Views](https://komarev.com/ghpvc/?username=mohanprasanth28-s&style=for-the-badge&color=3CE0F7)](https://github.com/Mohanprasanth28)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mohanprasanth28-s&style=for-the-badge&color=3CE0F7)](https://github.com/Mohanprasanth28)
 </div>
 ---
 
