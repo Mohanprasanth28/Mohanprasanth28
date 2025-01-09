@@ -61,6 +61,6 @@ Check out my LeetCode profile: [Mohan's LeetCode](https://leetcode.com/mohan__pr
 
 📫 Connect with Me
 - LinkedIn: [Mohan Prasanth](https://www.linkedin.com/in/mohan-prasanth-909b79255)
-- Email: mohan28mass@gmail.com
+- Email: mohanprasanth28005@gmail.com
 
 
